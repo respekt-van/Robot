@@ -9,7 +9,8 @@ This program performs object detection on input images of your choice. I employe
 
  - `main.py` : Python file. This is the main file for this program.
  - `coco.names` : Txt file. This contains names.
-
+ - `Neural.py` : Python file. Neural file.
+ - `Robot.py` : Python file. Robot logic file.
 ## Input files
 
  - `yolo/yolov3-320.cfg` : YOLO v3 config file
