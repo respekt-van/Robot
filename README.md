@@ -20,6 +20,7 @@ These files were obtained by following the instruction described in **Darknet**'
 
 ## Version
   - Django 3.1.5
+  - Django Rest Framework
   - Python 3
   - Numpy 1.14.3
   - OpenCV 4.2
