@@ -19,7 +19,7 @@ This program performs object detection on input images of your choice. I employe
 These files were obtained by following the instruction described in **Darknet**'s ["YOLO: Real-Time Object Detection"](https://pjreddie.com/darknet/yolo/)
 
 ## Version
-
+  - Django 3.1.5
   - Python 3
   - Numpy 1.14.3
   - OpenCV 4.2
